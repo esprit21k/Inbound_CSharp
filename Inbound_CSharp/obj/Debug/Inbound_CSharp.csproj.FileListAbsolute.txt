@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Inbound_Csharp\Inbound_CSharp\bin\Debug\Inbound_CSharp.exe.config
+C:\Users\admin\source\repos\Inbound_Csharp\Inbound_CSharp\bin\Debug\Inbound_CSharp.exe
+C:\Users\admin\source\repos\Inbound_Csharp\Inbound_CSharp\bin\Debug\Inbound_CSharp.pdb
+C:\Users\admin\source\repos\Inbound_Csharp\Inbound_CSharp\obj\Debug\Inbound_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\Inbound_Csharp\Inbound_CSharp\obj\Debug\Inbound_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Inbound_Csharp\Inbound_CSharp\obj\Debug\Inbound_CSharp.exe
+C:\Users\admin\source\repos\Inbound_Csharp\Inbound_CSharp\obj\Debug\Inbound_CSharp.pdb
